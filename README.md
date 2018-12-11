@@ -1,4 +1,4 @@
-# unix-bitwise
+# utils-bitwise
 ## Unix command-line utilities for bitwise operations on streams
 
 ### What's this?
